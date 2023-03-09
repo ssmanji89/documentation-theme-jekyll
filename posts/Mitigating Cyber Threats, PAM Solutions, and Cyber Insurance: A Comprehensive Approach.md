@@ -1,3 +1,7 @@
+layout: index
+title: "Welcome to [redacted]"
+permalink: /index
+
 # Mitigating Cyber Threats, PAM Solutions, and Cyber Insurance: A Comprehensive Approach
 
 ## Introduction
