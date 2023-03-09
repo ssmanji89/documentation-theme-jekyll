@@ -1,6 +1,6 @@
 layout: index
 title: "Welcome to [redacted]"
-permalink: /index
+permalink: /posts/threats-pam-insurance
 
 # Mitigating Cyber Threats, PAM Solutions, and Cyber Insurance: A Comprehensive Approach
 
