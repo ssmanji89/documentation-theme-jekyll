@@ -24,7 +24,9 @@ I have a Bachelor’s degree in Management of Information Systems from the Bauer
 
 ## Honors and Awards
 
-- Dean's List (2011 / 2012 / 2013; The University of Houston - Bauer School of Business)
+- Dean's List - The University of Houston - Bauer School of Business 2011 
+- Dean's List - The University of Houston - Bauer School of Business 2012 
+- Dean's List - The University of Houston - Bauer School of Business 2013
 - Make It Better Award (2014; ERGOS Technology)
 
 ## Publications, Contributions & Portfolio
