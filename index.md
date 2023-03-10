@@ -136,11 +136,11 @@ I have a Bachelor’s degree in Management of Information Systems from the Bauer
 
 
 # External Reference Resources
-- [https://www.fxstreet.com/economic-calendar](FXSTREET Economic Calendar)
-- [https://oilprice.com/Latest-Energy-News/World-News/](Energy && World News )
-- [https://www.theblock.co/data/crypto-markets/futures](The Block (Blockchain and Market Data Analytics))
-- [https://www.tradingview.com/chart/](TradingView - Advanced Charting)
-- [https://quakewatch.net/](EARTHQUAKE PREDICTION CENTER)
-- [https://www.solen.info/solar/](Solar Terrestrial Activity Report)
-- [https://spaghettimodels.com/](Mike's Weather Homepage)
-- [https://www.ventusky.com/](Ventusky)
+- [FXSTREET Economic Calendar](https://www.fxstreet.com/economic-calendar)
+- [Energy && World News](https://oilprice.com/Latest-Energy-News/World-News/)
+- [The Block (Blockchain and Market Data Analytics)](https://www.theblock.co/data/crypto-markets/futures)
+- [TradingView - Advanced Charting](https://www.tradingview.com/chart/)
+- [EARTHQUAKE PREDICTION CENTER](https://quakewatch.net/)
+- [Solar Terrestrial Activity Report](https://www.solen.info/solar/)
+- [Mike's Weather Homepage](https://spaghettimodels.com/)
+- [Ventusky](https://www.ventusky.com/)
