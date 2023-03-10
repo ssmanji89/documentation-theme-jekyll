@@ -34,26 +34,17 @@ I have a Bachelor’s degree in Management of Information Systems from the Bauer
 - LinkedIn: www.linkedin.com/in/sulemanmanji
 
 ### Portfolio
-
-- Twitter: twitter.com/slullyman
-- Github: github.com/ssmanji89/botStuff
-
-## Skills
-
-- Privileged Access
-- Directory Services
-- Incident Response Management
-- and 57 More!
+[:To Do]
 
 ## Certifications
 
 - Corporate Entrepreneurship / Intrapreneurship 
 - Microsoft Certified: Azure Administrator Associate (AZ-104)
-- Microsoft Certified: Azure Solutions Architect (AZ-305)
-- CyberArk Cloud Delivery Engineer
-- CyberArk Guardian 
-- CyberArk Defender 
-- CyberArk Sentry
+- Microsoft Certified: Azure Solutions Architect* (AZ-305)
+- CyberArk Cloud Delivery Engineer*
+- CyberArk Guardian*
+- CyberArk Defender*
+- CyberArk Sentry*
 - CyberArk Loosely Connected Devices
 - CyberArk Trustee
 - Axcient Certified Engineer
@@ -63,12 +54,16 @@ I have a Bachelor’s degree in Management of Information Systems from the Bauer
 - Dean's List (2011 / 2012 / 2013; The University of Houston - Bauer School of Business)
 - Make It Better Award (2014; ERGOS Technology)
 
-## Publications
+## Publications & Contribution
 
 - Equity Assets
 - Impactful Automation - Automation that Hits the Mark
 - Scalable OTP Authentication
 - Logic for Programmatic Decision Making against Equity Assets
+- [botSTuff Public Repo]
+- Sentiment Investor 
+- Programmatic Digest Service 
+[:To Do]
 
 ## Languages
 
@@ -80,3 +75,10 @@ I have a Bachelor’s degree in Management of Information Systems from the Bauer
 
 - University of Houston, C.T. Bauer College of Business - Bachelor of Business Administration in Management Information Systems (2013)
 - Dulles High School - High School Diploma in Liberal Arts and Sciences, General Studies and Humanities (2008)
+
+## Skills
+
+- Privileged Access
+- Directory Services
+- Incident Response Management
+[:To Do]
