@@ -23,7 +23,7 @@ I have a Bachelor’s degree in Management of Information Systems from the Bauer
 - [Azure Monitoring Program](https://github.dev/ssmanji89/mindmaps/blob/1033aba396da4634630cc13021f4f439355ecb8a/Node-Azure_Monitoring-Detailed.md#L1)
 - [S.M.A.R.T.](https://github.dev/ssmanji89/mindmaps/blob/1033aba396da4634630cc13021f4f439355ecb8a/MindMap%20for%20Defining%20SMART%20Goals.uml#L1-L28)
 - [Cost Savings Analysis with Automation](https://github.dev/ssmanji89/mindmaps/blob/1033aba396da4634630cc13021f4f439355ecb8a/Cost-Savings%20Opportunities%20for%20Customers.md#L1-L53)
-- [SOAR Integrations for Information Technology Systems](https://github.com/ssmanji89/mindmaps/blob/main/SOAR%20IT%20Landscape%20Integration.md)
+- [SOAR on Information Technology Systems](https://github.com/ssmanji89/mindmaps/blob/main/SOAR%20IT%20Landscape%20Integration.md)
 
 ## Certifications
 - Microsoft Certified: Azure Administrator Associate (AZ-104)
