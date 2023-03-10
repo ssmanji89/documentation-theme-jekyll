@@ -135,7 +135,7 @@ I have a Bachelor’s degree in Management of Information Systems from the Bauer
   - It also involves conducting audits and assessments to verify compliance and identify areas for improvement.
 
 
-# External Reference Resources
+# External Resources
 - [FXSTREET Economic Calendar](https://www.fxstreet.com/economic-calendar)
 - [Energy && World News](https://oilprice.com/Latest-Energy-News/World-News/)
 - [The Block (Blockchain and Market Data Analytics)](https://www.theblock.co/data/crypto-markets/futures)
