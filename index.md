@@ -10,6 +10,20 @@ I have a Bachelor’s degree in Management of Information Systems from the Bauer
 - Email: suleman@botstuff.org
 - LinkedIn: www.linkedin.com/in/sulemanmanji
 
+## Publications, Contributions & Portfolio
+
+- Impactful Automation - Automation that Hits the Mark
+- Scalable OTP Authentication
+- Logic for Programmatic Decision Making against Equity Assets
+- Sentiment Investor API 
+- [botStuff Archive](https://github.com/username/project1)
+- [ChatGPT MindMaps](https://github.com/ssmanji89/mindmaps)
+- [automobots](https://github.com/ssmanji89/automobots)
+- [High-frequency Trading](https://github.com/ssmanji89/botstuff_hft_cryptos)
+- [Azure Monitoring Program](https://github.dev/ssmanji89/mindmaps/blob/1033aba396da4634630cc13021f4f439355ecb8a/Node-Azure_Monitoring-Detailed.md#L1)
+- [S.M.A.R.T.](https://github.dev/ssmanji89/mindmaps/blob/1033aba396da4634630cc13021f4f439355ecb8a/MindMap%20for%20Defining%20SMART%20Goals.uml#L1-L28)
+- [Cost Savings Analysis with Automation](https://github.dev/ssmanji89/mindmaps/blob/1033aba396da4634630cc13021f4f439355ecb8a/Cost-Savings%20Opportunities%20for%20Customers.md#L1-L53)
+
 
 ## Certifications
 - Microsoft Certified: Azure Administrator Associate (AZ-104)
@@ -28,20 +42,6 @@ I have a Bachelor’s degree in Management of Information Systems from the Bauer
 - Dean's List - The University of Houston - Bauer School of Business 2012 
 - Dean's List - The University of Houston - Bauer School of Business 2013
 - Make It Better Award (2014; ERGOS Technology)
-
-## Publications, Contributions & Portfolio
-
-- Impactful Automation - Automation that Hits the Mark
-- Scalable OTP Authentication
-- Logic for Programmatic Decision Making against Equity Assets
-- Sentiment Investor API 
-- [botStuff Archive](https://github.com/username/project1)
-- [ChatGPT MindMaps](https://github.com/ssmanji89/mindmaps)
-- [automobots](https://github.com/ssmanji89/automobots)
-- [High-frequency Trading](https://github.com/ssmanji89/botstuff_hft_cryptos)
-- [Azure Monitoring Program](https://github.dev/ssmanji89/mindmaps/blob/1033aba396da4634630cc13021f4f439355ecb8a/Node-Azure_Monitoring-Detailed.md#L1)
-- [S.M.A.R.T.](https://github.dev/ssmanji89/mindmaps/blob/1033aba396da4634630cc13021f4f439355ecb8a/MindMap%20for%20Defining%20SMART%20Goals.uml#L1-L28)
-- [Cost Savings Analysis with Automation](https://github.dev/ssmanji89/mindmaps/blob/1033aba396da4634630cc13021f4f439355ecb8a/Cost-Savings%20Opportunities%20for%20Customers.md#L1-L53)
 
 ## Languages
 
