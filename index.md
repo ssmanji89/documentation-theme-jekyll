@@ -1,37 +1,13 @@
 # Suleman Manji - Infrastructure Engineer
 
-I am a highly skilled and experienced infrastructure engineer with a strong interest in privileged accesses, automation, and applied technologies. I am proficient in a wide range of technical skills, including:
-
-- Systems Implementations 
-- Systems Integrationss
-- Managed Services
-- Cloud Computing
-- Infrastructure Virtualization
-- Network Administration
-- Microsoft SQL Server
-- Troubleshooting
-- Desktop Administration
-- Virtualized Desktop Computing
-- Management
-
-I am also skilled in:
-
-- Written and Verbal Communications
-- Technical Writing
-- Project Management
-- Training
-- SOP Development
-- Business Intelligence
-- Negotiations Management
-- Incident/Crisis Management
-- The ability to perform well under pressure
+I am a highly skilled and experienced infrastructure engineer with a strong interest in privileged accesses, automation, and applied technologies. 
 
 I have a Bachelor’s degree in Management of Information Systems from the Bauer School of Business at the University of Houston-Main, and I am an avid researcher with a passion for science documentaries and technical certifications.
 
 ## Contact
 
 - Mobile: 2819041969
-- Email: ssmanji89@gmail.com
+- Email: suleman@botstuff.org
 - LinkedIn: www.linkedin.com/in/sulemanmanji
 
 
@@ -78,8 +54,7 @@ I have a Bachelor’s degree in Management of Information Systems from the Bauer
 - University of Houston, Wolff Center for Entrepreneurship - Acknowledgement of Corporate Intrapreneurship (2011)
 - Dulles High School - High School Diploma in Liberal Arts and Sciences, General Studies and Humanities (2008)
 
-## Skills
-### Technical Skills
+## Technical Skills:
 - Systems Implementations
   - Design, install, configure, and deploy hardware and software systems
 - Systems Integrations
@@ -103,7 +78,7 @@ I have a Bachelor’s degree in Management of Information Systems from the Bauer
 - Management
   - Manage technical projects and teams
   
-### Communication Skills
+## Communication Skills:
 - Written and Verbal Communications
   - Communicate effectively in writing and verbally with technical and non-technical stakeholders
 - Technical Writing
@@ -121,8 +96,7 @@ I have a Bachelor’s degree in Management of Information Systems from the Bauer
 - Incident/Crisis Management
   - Respond to technical incidents and crises in a timely and effective manner
 
-### Security Skills
-# Security Skills:
+## Security Skills:
 
 - Privileged Access: 
   - The ability to manage privileged access to systems and data. 
