@@ -98,34 +98,34 @@ I have a Bachelor’s degree in Management of Information Systems from the Bauer
 
 ## Security
 
-- Privileged Access: 
+- Privileged Access 
   - The ability to manage privileged access to systems and data. 
   - This includes identifying users who require elevated privileges and ensuring that access is granted on a need-to-know basis. 
   - It also involves implementing and maintaining access controls to prevent unauthorized access to sensitive data or systems.
 
-- Directory Services: 
+- Directory Services
   - The ability to design, deploy, and manage directory services such as Active Directory and LDAP. 
   - This involves creating and managing user accounts, groups, and other objects within the directory, as well as defining access policies and security groups.
 
-- Incident Response Management: 
+- Incident Response Management
   - The ability to respond to security incidents and breaches in a timely and effective manner. 
   - This includes having a plan in place to detect and respond to security incidents, as well as identifying and containing the affected systems. 
   - It also involves conducting root cause analysis and implementing corrective actions to prevent similar incidents from occurring in the future.
 
-- Penetration Testing: 
+- Penetration Testing
   - The ability to perform penetration testing and vulnerability assessments to identify potential security weaknesses in systems and networks. 
   - This involves using tools and techniques to simulate attacks and identify vulnerabilities that could be exploited by attackers.
 
-- Security Auditing: 
+- Security Auditing 
   - The ability to conduct security audits and assessments to evaluate the effectiveness of security controls and identify areas for improvement. 
   - This involves reviewing security policies and procedures, as well as analyzing security logs and other data sources to identify security incidents or anomalies.
 
-- Risk Management: 
+- Risk Management
   - The ability to manage risks to the security of systems and data. 
   - This involves identifying and assessing risks, as well as developing and implementing controls to mitigate those risks. 
   - It also involves monitoring and measuring the effectiveness of those controls, and updating them as necessary to address new or emerging risks.
 
-- Compliance: 
+- Compliance
   - The ability to ensure that systems and processes are compliant with relevant laws, regulations, and industry standards. 
   - This involves staying up-to-date with changes in regulations and standards, as well as implementing and maintaining controls to ensure compliance. 
   - It also involves conducting audits and assessments to verify compliance and identify areas for improvement.
