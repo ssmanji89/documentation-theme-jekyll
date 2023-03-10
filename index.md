@@ -45,18 +45,19 @@ I have a Bachelor’s degree in Management of Information Systems from the Bauer
 - Dean's List - The University of Houston - Bauer School of Business 2013
 - Make It Better Award (2014; ERGOS Technology)
 
-## Languages
-
-- English (Native)
-- Urdu
-- Hindi
-
 ## Education
 
 - University of Houston, C.T. Bauer College of Business - Bachelor of Business Administration in Management Information Systems (2013)
 - University of Houston, Wolff Center for Entrepreneurship- Acknowledgement of Corporate Entrepreneurship (2012)
 - University of Houston, Wolff Center for Entrepreneurship - Acknowledgement of Corporate Intrapreneurship (2011)
 - Dulles High School - High School Diploma in Liberal Arts and Sciences, General Studies and Humanities (2008)
+
+
+## Languages
+
+- English (Native)
+- Urdu
+- Hindi
 
 ## Technical
 - Systems Implementations
