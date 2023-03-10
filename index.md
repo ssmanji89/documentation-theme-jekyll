@@ -1,8 +1,8 @@
-# Suleman Manji - Infrastructure Engineer
+# Suleman Manji
 
-I am a highly skilled and experienced infrastructure engineer with a strong interest in privileged accesses, automation, and applied technologies. 
+I am a skilled and experienced individual with a strong interest in privileged accesses, automation, and applied technologies in Human Efforts. 
 
-I have a Bachelor’s degree in Management of Information Systems from the Bauer School of Business at the University of Houston-Main, and I am an avid researcher with a passion for science documentaries and technical certifications.
+I have a Bachelor’s degree in Management of Information Systems from the Bauer School of Business at the University of Houston-Main, and I am an avid researcher with a passion for science documentaries and engineering methods.
 
 ## Contact
 
