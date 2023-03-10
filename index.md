@@ -2,16 +2,17 @@
 
 I am a highly skilled and experienced infrastructure engineer with a strong interest in privileged accesses, automation, and applied technologies. I am proficient in a wide range of technical skills, including:
 
-- Desktop Administration
-- Microsoft SQL Server
-- Virtualized Desktop Computing
+- Systems Implementations 
+- Systems Integrationss
 - Managed Services
-- Management
-- Troubleshooting
 - Cloud Computing
 - Infrastructure Virtualization
 - Network Administration
-- Systems Implementation
+- Microsoft SQL Server
+- Troubleshooting
+- Desktop Administration
+- Virtualized Desktop Computing
+- Management
 
 I am also skilled in:
 
@@ -37,8 +38,6 @@ I have a Bachelor’s degree in Management of Information Systems from the Bauer
 [:To Do]
 
 ## Certifications
-
-- Corporate Entrepreneurship / Intrapreneurship 
 - Microsoft Certified: Azure Administrator Associate (AZ-104)
 - Microsoft Certified: Azure Solutions Architect* (AZ-305)
 - CyberArk Cloud Delivery Engineer*
@@ -74,6 +73,8 @@ I have a Bachelor’s degree in Management of Information Systems from the Bauer
 ## Education
 
 - University of Houston, C.T. Bauer College of Business - Bachelor of Business Administration in Management Information Systems (2013)
+- University of Houston, Wolff Center for Entrepreneurship- Acknowledgement of Corporate Entrepreneurship (2012)
+- University of Houston, Wolff Center for Entrepreneurship - Acknowledgement of Corporate Intrapreneurship (2011)
 - Dulles High School - High School Diploma in Liberal Arts and Sciences, General Studies and Humanities (2008)
 
 ## Skills
