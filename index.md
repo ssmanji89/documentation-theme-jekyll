@@ -54,7 +54,7 @@ I have a Bachelor’s degree in Management of Information Systems from the Bauer
 - University of Houston, Wolff Center for Entrepreneurship - Acknowledgement of Corporate Intrapreneurship (2011)
 - Dulles High School - High School Diploma in Liberal Arts and Sciences, General Studies and Humanities (2008)
 
-## Technical Skills:
+## Technical
 - Systems Implementations
   - Design, install, configure, and deploy hardware and software systems
 - Systems Integrations
@@ -78,7 +78,7 @@ I have a Bachelor’s degree in Management of Information Systems from the Bauer
 - Management
   - Manage technical projects and teams
   
-## Communication Skills:
+## Communications
 - Written and Verbal Communications
   - Communicate effectively in writing and verbally with technical and non-technical stakeholders
 - Technical Writing
@@ -96,7 +96,7 @@ I have a Bachelor’s degree in Management of Information Systems from the Bauer
 - Incident/Crisis Management
   - Respond to technical incidents and crises in a timely and effective manner
 
-## Security Skills:
+## Security
 
 - Privileged Access: 
   - The ability to manage privileged access to systems and data. 
