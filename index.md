@@ -10,7 +10,7 @@ I have a Bachelor’s degree in Management of Information Systems from the Bauer
 - Email: suleman@botstuff.org
 - LinkedIn: www.linkedin.com/in/sulemanmanji
 
-## Publications, Contributions & Portfolio
+## Contributions & Portfolio
 
 - Impactful Automation - Automation that Hits the Mark
 - Scalable OTP Authentication
