@@ -4,12 +4,11 @@ I am a skilled and experienced individual with a strong interest in privileged a
 I have a Bachelor’s degree in Management of Information Systems from the Bauer School of Business at the University of Houston-Main, and I am an avid researcher with a passion for science documentaries and engineering methods.
 
 ## Contact
-- Mobile: 2819041969
-- Email: suleman@botstuff.org
+- [Mobile](2819041969)
+- [Email](mailto:suleman@botstuff.org)
 - [LinkedIn](www.linkedin.com/in/sulemanmanji)
 - [GitHub](https://suleman.botstuff.org/)
 - [Twitter](https://twitter.com/slullyman/)
-- 
 
 ## Publications, Contributions & Portfolio
 - Impactful Automation - Automation that Hits the Mark
