@@ -121,14 +121,14 @@ I have a Bachelor’s degree in Management of Information Systems from the Bauer
   - The ability to ensure that systems and processes are compliant with relevant laws, regulations, and industry standards. 
   - This involves staying up-to-date with changes in regulations and standards, as well as implementing and maintaining controls to ensure compliance. 
   - It also involves conducting audits and assessments to verify compliance and identify areas for improvement.
-
+  
 # External Reference Resources
-## [FXSTREET Economic Calendar](https://www.fxstreet.com/economic-calendar)
-## [Oilprice.com (Energy && World News)](https://oilprice.com/Latest-Energy-News/World-News/)
-## [The Block (Blockchain and Market Data Analytics)](https://www.theblock.co/data/crypto-markets/futures)
-## [TradingView - Advanced Charting](https://www.tradingview.com/chart/)
-## [EARTHQUAKE PREDICTION CENTER](https://quakewatch.net/)
-## [Solar Terrestrial Activity Report](https://www.solen.info/solar/)
-## [Mike's Weather Homepage](https://spaghettimodels.com/)
-## [Ventusky](https://www.ventusky.com/)
-## [Didact AI](https://principiamundi.com/posts/didact-anatomy/)
+- [FXSTREET Economic Calendar](https://www.fxstreet.com/economic-calendar)
+- [Oilprice.com (Energy && World News)](https://oilprice.com/Latest-Energy-News/World-News/)
+- [The Block (Blockchain and Market Data Analytics)](https://www.theblock.co/data/crypto-markets/futures)
+- [TradingView - Advanced Charting](https://www.tradingview.com/chart/)
+- [EARTHQUAKE PREDICTION CENTER](https://quakewatch.net/)
+- [Solar Terrestrial Activity Report](https://www.solen.info/solar/)
+- [Mike's Weather Homepage](https://spaghettimodels.com/)
+- [Ventusky](https://www.ventusky.com/)
+- [Didact AI](https://principiamundi.com/posts/didact-anatomy/)
