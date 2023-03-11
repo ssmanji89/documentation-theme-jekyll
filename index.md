@@ -145,3 +145,4 @@ I have a Bachelor’s degree in Management of Information Systems from the Bauer
 - [Solar Terrestrial Activity Report](https://www.solen.info/solar/)
 - [Mike's Weather Homepage](https://spaghettimodels.com/)
 - [Ventusky](https://www.ventusky.com/)
+- [Didact AI](https://principiamundi.com/posts/didact-anatomy/)
