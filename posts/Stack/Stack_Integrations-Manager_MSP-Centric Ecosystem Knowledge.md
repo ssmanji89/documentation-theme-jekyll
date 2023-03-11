@@ -86,7 +86,7 @@ title MSP-Centric Ecosystem Knowledge
 - Problem Management
 - Change Management
 - Knowledge Management
-<hl>
+
 # Managed Services Provider Alignment: 
 - Attend MSP industry conferences and workshops to gain a comprehensive understanding of the MSP industry, products, services, and solutions.
 - Read relevant articles, books, and whitepapers on the MSP industry and related topics.
