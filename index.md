@@ -138,7 +138,7 @@ I have a Bachelor’s degree in Management of Information Systems from the Bauer
 
 # External Reference Resources
 - [FXSTREET Economic Calendar](https://www.fxstreet.com/economic-calendar)
-- [Energy && World News](https://oilprice.com/Latest-Energy-News/World-News/)
+- [Oilprice.com (Energy && World News)](https://oilprice.com/Latest-Energy-News/World-News/)
 - [The Block (Blockchain and Market Data Analytics)](https://www.theblock.co/data/crypto-markets/futures)
 - [TradingView - Advanced Charting](https://www.tradingview.com/chart/)
 - [EARTHQUAKE PREDICTION CENTER](https://quakewatch.net/)
