@@ -1,3 +1,6 @@
+---
+permalink:/notes_What_the_Heck_is_EOS-A_Complete_Guide_for_Employees_in_Companies_Running_on_EOS/
+---
 [What the Heck is EOS_A Complete Guide for Employees in Companies Running on EOS](https://www.amazon.com/What-Heck-is-EOS-audiobook/dp/B077Y32WD2/ref=sr_1_1?keywords=eos+book&qid=1678502185&sr=8-1)
 
 # Vision
