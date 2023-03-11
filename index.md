@@ -58,84 +58,73 @@ I have a Bachelor’s degree in Management of Information Systems from the Bauer
 - University of Houston, Wolff Center for Entrepreneurship- Acknowledgement of Corporate Entrepreneurship (2012)
 - University of Houston, Wolff Center for Entrepreneurship - Acknowledgement of Corporate Intrapreneurship (2011)
 - Dulles High School - High School Diploma in Liberal Arts and Sciences, General Studies and Humanities (2008)
+# Technical
+## Systems Implementations
+- Design, install, configure, and deploy hardware and software systems using remote technologies and tools.
+## Systems Integrations
+- Integrate hardware and software systems with existing systems remotely, leveraging APIs and middleware.
+## Managed Services
+- Provide remote support for managed services such as cloud, data center, and network services using remote monitoring and management tools.
+## Cloud Computing
+- Design, deploy, and manage cloud-based infrastructure using remote services and tools such as Microsoft Azure, Amazon Web Services, and Google Cloud Platform.
+## Infrastructure Virtualization
+- Design, deploy, and manage virtualized infrastructure remotely using technologies such as VMware and Hyper-V.
+## Network Administration
+- Design, deploy, and manage network infrastructure remotely using technologies such as Cisco, Juniper, and Aruba, using remote administration tools.
+## Microsoft SQL Server
+- Design, deploy, and manage Microsoft SQL Server databases in a production environment remotely using tools such as Microsoft SQL Server Management Studio.
 
-## Technical
-- Systems Implementations
-  - Design, install, configure, and deploy hardware and software systems
-- Systems Integrations
-  - Integrate hardware and software systems with existing systems
-- Managed Services
-  - Provide support for managed services such as cloud, data center, and network services
-- Cloud Computing
-  - Design, deploy, and manage cloud-based infrastructure using services such as Microsoft Azure, Amazon Web Services, and Google Cloud Platform
-- Infrastructure Virtualization
-  - Design, deploy, and manage virtualized infrastructure using technologies such as VMware and Hyper-V
-- Network Administration
-  - Design, deploy, and manage network infrastructure using technologies such as Cisco, Juniper, and Aruba
-- Microsoft SQL Server
-  - Design, deploy, and manage Microsoft SQL Server databases in a production environment
-- Troubleshooting
-  - Identify, diagnose, and resolve technical issues in hardware, software, and network systems
-- Desktop Administration
-  - Manage desktops and workstations in a production environment
-- Virtualized Desktop Computing
-  - Design, deploy, and manage virtualized desktop infrastructure using technologies such as VMware Horizon and Citrix
-- Management
-  - Manage technical projects and teams
-  
-## Communications
-- Written and Verbal Communications
-  - Communicate effectively in writing and verbally with technical and non-technical stakeholders
-- Technical Writing
-  - Create technical documentation such as user manuals, technical specifications, and system documentation
-- Project Management
-  - Plan, execute, and manage technical projects
-- Training
-  - Design and deliver technical training for users and technical staff
-- SOP Development
-  - Develop and maintain standard operating procedures for technical systems and processes
-- Business Intelligence
-  - Analyze and interpret data to support business decisions
-- Negotiations Management
-  - Negotiate contracts and agreements with vendors and clients
-- Incident/Crisis Management
-  - Respond to technical incidents and crises in a timely and effective manner
+## Troubleshooting
+- Identify, diagnose, and resolve technical issues in hardware, software, and network systems remotely using remote access tools and protocols.
+## Desktop Administration
+- Manage desktops and workstations in a production environment remotely using remote access tools and management software.
+## Virtualized Desktop Computing
+- Design, deploy, and manage virtualized desktop infrastructure remotely using technologies such as VMware Horizon and Citrix, using remote management tools.
+## Management
+- Manage technical projects and teams remotely using remote project management tools and communication technologies.
 
-## Security
+# Communications
+## Written and Verbal Communications
+- Communicate effectively in writing and verbally with technical and non-technical stakeholders remotely using communication technologies such as email, video conferencing, and instant messaging.
+## Technical Writing
+- Create technical documentation such as user manuals, technical specifications, and system documentation remotely using remote documentation tools and collaboration technologies.
+## Project Management
+- Plan, execute, and manage technical projects remotely using remote project management tools and communication technologies.
+## Training
+- Design and deliver technical training for users and technical staff remotely using remote training technologies and collaboration tools.
+## SOP Development
+- Develop and maintain standard operating procedures for technical systems and processes remotely using remote documentation tools and collaboration technologies.
+## Business Intelligence
+- Analyze and interpret data to support business decisions remotely using remote data analytics tools and technologies.
+## Negotiations Management
+- Negotiate contracts and agreements with vendors and clients remotely using remote communication technologies and collaboration tools.
+## Incident/Crisis Management
+- Respond to technical incidents and crises in a timely and effective manner remotely using remote incident management tools and communication technologies.
 
-- Privileged Access 
-  - The ability to manage privileged access to systems and data. 
-  - This includes identifying users who require elevated privileges and ensuring that access is granted on a need-to-know basis. 
-  - It also involves implementing and maintaining access controls to prevent unauthorized access to sensitive data or systems.
-
-- Directory Services
-  - The ability to design, deploy, and manage directory services such as Active Directory and LDAP. 
-  - This involves creating and managing user accounts, groups, and other objects within the directory, as well as defining access policies and security groups.
-
-- Incident Response Management
-  - The ability to respond to security incidents and breaches in a timely and effective manner. 
-  - This includes having a plan in place to detect and respond to security incidents, as well as identifying and containing the affected systems. 
-  - It also involves conducting root cause analysis and implementing corrective actions to prevent similar incidents from occurring in the future.
-
-- Penetration Testing
-  - The ability to perform penetration testing and vulnerability assessments to identify potential security weaknesses in systems and networks. 
-  - This involves using tools and techniques to simulate attacks and identify vulnerabilities that could be exploited by attackers.
-
-- Security Auditing 
-  - The ability to conduct security audits and assessments to evaluate the effectiveness of security controls and identify areas for improvement. 
-  - This involves reviewing security policies and procedures, as well as analyzing security logs and other data sources to identify security incidents or anomalies.
-
-- Risk Management
-  - The ability to manage risks to the security of systems and data. 
-  - This involves identifying and assessing risks, as well as developing and implementing controls to mitigate those risks. 
-  - It also involves monitoring and measuring the effectiveness of those controls, and updating them as necessary to address new or emerging risks.
-
-- Compliance
-  - The ability to ensure that systems and processes are compliant with relevant laws, regulations, and industry standards. 
-  - This involves staying up-to-date with changes in regulations and standards, as well as implementing and maintaining controls to ensure compliance. 
-  - It also involves conducting audits and assessments to verify compliance and identify areas for improvement.
-
-
+# Security
+## Privileged Access
+- Manage privileged access to systems and data remotely using remote access tools and technologies.
+- This includes identifying users who require elevated privileges and ensuring that access is granted on a need-to-know basis remotely.
+- It also involves implementing and maintaining access controls to prevent unauthorized access to sensitive data or systems remotely.
+## Directory Services
+- Design, deploy, and manage directory services such as Active Directory and LDAP remotely using remote administration tools and protocols.
+- This involves creating and managing user accounts, groups, and other objects within the directory remotely, as well as defining access policies and security groups remotely.
+## Incident Response Management
+- Respond to security incidents and breaches in a timely and effective manner remotely using remote incident response tools and technologies.
+- This includes having a plan in place to detect and respond to security incidents remotely, as well as identifying and containing the affected systems remotely.
+- It also involves conducting root cause analysis remotely and implementing corrective actions remotely to prevent similar incidents from occurring in the future.
+## Penetration Testing
+- Perform penetration testing and vulnerability assessments to identify potential security weaknesses in systems and networks remotely using remote testing tools and technologies.
+- This involves using tools and techniques to simulate attacks remotely and identify vulnerabilities that could be exploited by attackers remotely.
+## Security Auditing
+- Conduct security audits and assessments to evaluate the effectiveness of security controls and identify areas for improvement remotely using remote auditing tools and technologies.
+- This involves reviewing security policies and procedures remotely, as well as analyzing security logs and other data sources remotely to identify security incidents or anomalies.
+## Risk Management
+- Manage risks to the security of systems and data remotely by identifying and assessing risks remotely, as well as developing and implementing controls to mitigate those risks remotely.
+- It also involves monitoring and measuring the effectiveness of those controls remotely, and updating them remotely as necessary to address new or emerging risks.
+## Compliance
+- Ensure that systems and processes are compliant with relevant laws, regulations, and industry standards remotely by staying up-to-date with changes in regulations and standards remotely, as well as implementing and maintaining controls to ensure compliance remotely.
+- It also involves conducting remote audits and assessments to verify compliance and identify areas for improvement remotely.
 # External Reference Resources
 - [FXSTREET Economic Calendar](https://www.fxstreet.com/economic-calendar)
 - [Oilprice.com (Energy && World News)](https://oilprice.com/Latest-Energy-News/World-News/)
