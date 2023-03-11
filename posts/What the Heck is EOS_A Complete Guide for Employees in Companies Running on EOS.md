@@ -82,47 +82,28 @@
   - Encourage open and honest communication
   - Look for creative solutions and alternative resources
   - Prioritize and allocate resources effectively
-# Checklists
- - Checklist for Attendance
+
+ ## Checklist for Attendance
   - Make a schedule
   - Prepare beforehand
   - Actively participate
- - Checklist for Participation
+ ## Checklist for Participation
   - Speak up
   - Listen to others
   - Provide constructive feedback
- - Checklist for Reviewing
+ ## Checklist for Reviewing
   - Regularly review Rocks and Issues
   - Reflect on progress and challenges
- - Checklist for Goal Setting
+ ## Checklist for Goal Setting
   - Align personal and team goals with company vision
   - Regularly review and adjust goals
- - Checklist for Communication and Collaboration
+ ## Checklist for Communication and Collaboration
   - Regularly communicate with team and other departments
   - Encourage open communication
   - Seek out collaboration opportunities improvement
   - Encourage open and honest communication
- - Inadequate resources
+ ## Inadequate resources
   - Regularly assess the availability of resources and identify areas where additional resources may be needed
   - Encourage open and honest communication
   - Look for creative solutions and alternative resources
   - Prioritize and allocate resources effectively
-# Checklists
- - Checklist for Attendance
-  - Make a schedule
-  - Prepare beforehand
-  - Actively participate
- - Checklist for Participation
-  - Speak up
-  - Listen to others
-  - Provide constructive feedback
- - Checklist for Reviewing
-  - Regularly review Rocks and Issues
-  - Reflect on progress and challenges
- - Checklist for Goal Setting
-  - Align personal and team goals with company vision
-  - Regularly review and adjust goals
- - Checklist for Communication and Collaboration
-  - Regularly communicate with team and other departments
-  - Encourage open communication
-  - Seek out collaboration opportunities
