@@ -21,31 +21,31 @@
  - Encourage open and honest communication during the meetings
  - Ensure everyone is prepared for the meetings and actively participates
 # Steps
- - Assess the current reality
+ ## Assess the current reality
   - Gather data and information about the company's strengths and weaknesses
   - Encourage open and honest communication
   - Regularly assess progress and identify areas for improvement
- - Create a vision
+ ## Create a vision
   - Clearly define the company's long-term desired end state
   - Encourage open and honest communication
   - Ensure everyone is aware of the company's vision and goals
- - Identify and prioritize issues
+ ## Identify and prioritize issues
   - Identify obstacles or challenges that are preventing the company from reaching its vision
   - Prioritize issues based on their impact and urgency
   - Encourage open and honest communication
- - Create rocks
+ ## Create rocks
   - Prioritize and set goals that will help the company reach its vision
   - Encourage open and honest communication
   - Regularly assess progress and identify areas for improvement
- - Develop a 3-year picture
+ ## Develop a 3-year picture
   - Clearly define the company's desired end state in 3 years, including intermediate goals and milestones
   - Encourage open and honest communication
   - Ensure everyone is aware of the company's vision and goals
- - Develop a 1-year plan
+ ## Develop a 1-year plan
   - Clearly define the company's desired end state in 1 year, including intermediate goals and milestones that align with the 3-year picture
   - Encourage open and honest communication
   - Ensure everyone is aware of the company's vision and goals
- - Develop a 90-day plan
+ ## Develop a 90-day plan
   - Clearly define the company's desired end state in 90 days, including intermediate goals and milestones that align with the 1-year plan
   - Encourage open and honest communication
   - Ensure everyone is aware of the company's vision and goals
