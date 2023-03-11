@@ -10,22 +10,23 @@ I have a Bachelor’s degree in Management of Information Systems from the Bauer
 - Email: suleman@botstuff.org
 - LinkedIn: www.linkedin.com/in/sulemanmanji
 
-## Contributions & Portfolio
+## Publications, Contributions & Portfolio
 
 - Impactful Automation - Automation that Hits the Mark
 - Scalable OTP Authentication
 - Logic for Programmatic Decision Making against Equity Assets
 - Sentiment Investor API 
-- [botStuff Archive](https://github.com/username/project1)
-- [ChatGPT UML MindMaps](https://github.com/ssmanji89/mindmaps)
-- [automobots](https://github.com/ssmanji89/automobots)
-- [High-frequency Trading](https://github.com/ssmanji89/botstuff_hft_cryptos)
-- [Azure Monitoring Program UML](https://github.dev/ssmanji89/mindmaps/blob/1033aba396da4634630cc13021f4f439355ecb8a/Node-Azure_Monitoring-Detailed.md#L1)
-- [S.M.A.R.T. UML](https://github.dev/ssmanji89/mindmaps/blob/1033aba396da4634630cc13021f4f439355ecb8a/MindMap%20for%20Defining%20SMART%20Goals.uml#L1-L28)
-- [Cost Savings Analysis with Automation UML](https://github.dev/ssmanji89/mindmaps/blob/1033aba396da4634630cc13021f4f439355ecb8a/Cost-Savings%20Opportunities%20for%20Customers.md#L1-L53)
-- [SOAR on Information Technology Systems UML](https://github.com/ssmanji89/mindmaps/blob/main/SOAR%20IT%20Landscape%20Integration.md)
-- [Windows OS Standard Onboarding PS](https://gist.github.com/botstufforg/84470eb9d12d454b0a452af8c963ff3f)
-- [Endpoint Protection Policy Development UML](https://gist.github.com/ssmanji89/8e31a60a6efd14b92898ee77c9da5dc4)
+- [Archive: botStuff](https://github.com/username/project1)
+- [Various: ChatGPT UML MindMaps](https://github.com/ssmanji89/mindmaps)
+- [Python/Solutions: automobots](https://github.com/ssmanji89/automobots)
+- [Python/Solution: High-frequency Trading](https://github.com/ssmanji89/botstuff_hft_cryptos)
+- [UML/Analysis: Azure Monitoring Program](https://github.dev/ssmanji89/mindmaps/blob/1033aba396da4634630cc13021f4f439355ecb8a/Node-Azure_Monitoring-Detailed.md#L1)
+- [UML/Analysis: S.M.A.R.T. ](https://github.dev/ssmanji89/mindmaps/blob/1033aba396da4634630cc13021f4f439355ecb8a/MindMap%20for%20Defining%20SMART%20Goals.uml#L1-L28)
+- [UML/Analysis: Cost Savings Analysis with Automation](https://github.dev/ssmanji89/mindmaps/blob/1033aba396da4634630cc13021f4f439355ecb8a/Cost-Savings%20Opportunities%20for%20Customers.md#L1-L53)
+- [UML/Process: SOAR on Information Technology Systems](https://github.com/ssmanji89/mindmaps/blob/main/SOAR%20IT%20Landscape%20Integration.md)
+- [PS/Process: Windows OS Standard Onboarding](https://gist.github.com/botstufforg/84470eb9d12d454b0a452af8c963ff3f)
+- [UML/Process: Endpoint Protection Policy Development](https://gist.github.com/ssmanji89/8e31a60a6efd14b92898ee77c9da5dc4)
+- [Notes: What the Heck is EOS_A Complete Guide for Employees in Companies Running on EOS](https://github.com/ssmanji89/public/blob/main/posts/What%20the%20Heck%20is%20EOS_A%20Complete%20Guide%20for%20Employees%20in%20Companies%20Running%20on%20EOS.md)
 
 ## Certifications
 - Microsoft Certified: Azure Administrator Associate (AZ-104)
@@ -45,19 +46,18 @@ I have a Bachelor’s degree in Management of Information Systems from the Bauer
 - Dean's List - The University of Houston - Bauer School of Business 2013
 - Make It Better Award (2014; ERGOS Technology)
 
+## Languages
+
+- English (Native)
+- Urdu
+- Hindi
+
 ## Education
 
 - University of Houston, C.T. Bauer College of Business - Bachelor of Business Administration in Management Information Systems (2013)
 - University of Houston, Wolff Center for Entrepreneurship- Acknowledgement of Corporate Entrepreneurship (2012)
 - University of Houston, Wolff Center for Entrepreneurship - Acknowledgement of Corporate Intrapreneurship (2011)
 - Dulles High School - High School Diploma in Liberal Arts and Sciences, General Studies and Humanities (2008)
-
-
-## Languages
-
-- English (Native)
-- Urdu
-- Hindi
 
 ## Technical
 - Systems Implementations
@@ -136,7 +136,7 @@ I have a Bachelor’s degree in Management of Information Systems from the Bauer
   - It also involves conducting audits and assessments to verify compliance and identify areas for improvement.
 
 
-# External Resources
+# External Reference Resources
 - [FXSTREET Economic Calendar](https://www.fxstreet.com/economic-calendar)
 - [Energy && World News](https://oilprice.com/Latest-Energy-News/World-News/)
 - [The Block (Blockchain and Market Data Analytics)](https://www.theblock.co/data/crypto-markets/futures)
