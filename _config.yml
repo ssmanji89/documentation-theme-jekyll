@@ -2,4 +2,4 @@ title: botStuff - Public
 description: Front-facing botStuff.org 
 show_downloads: false
 google_analytics:
-remote_theme: jekyll-theme-leap-day
+theme: jekyll-theme-leap-day
