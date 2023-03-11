@@ -1,4 +1,4 @@
-#[https://www.amazon.com/What-Heck-is-EOS-audiobook/dp/B077Y32WD2/ref=sr_1_1?keywords=eos+book&qid=1678502185&sr=8-1](What the Heck is EOS_A Complete Guide for Employees in Companies Running on EOS)
+[https://www.amazon.com/What-Heck-is-EOS-audiobook/dp/B077Y32WD2/ref=sr_1_1?keywords=eos+book&qid=1678502185&sr=8-1](What the Heck is EOS_A Complete Guide for Employees in Companies Running on EOS)
 
 # Vision
  - Clearly define the company's vision and ensure everyone is aware of it
