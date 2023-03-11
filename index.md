@@ -6,7 +6,10 @@ I have a Bachelor’s degree in Management of Information Systems from the Bauer
 ## Contact
 - Mobile: 2819041969
 - Email: suleman@botstuff.org
-- LinkedIn: www.linkedin.com/in/sulemanmanji
+- [LinkedIn](www.linkedin.com/in/sulemanmanji)
+- [GitHub](https://suleman.botstuff.org/)
+- [Twitter](https://twitter.com/slullyman/)
+- 
 
 ## Publications, Contributions & Portfolio
 - Impactful Automation - Automation that Hits the Mark
@@ -41,11 +44,6 @@ I have a Bachelor’s degree in Management of Information Systems from the Bauer
 - Dean's List - The University of Houston - Bauer School of Business 2012 
 - Dean's List - The University of Houston - Bauer School of Business 2013
 - Make It Better Award (2014; ERGOS Technology)
-
-## Languages
-- English (Native)
-- Urdu
-- Hindi
 
 ## Education
 - University of Houston, C.T. Bauer College of Business - Bachelor of Business Administration in Management Information Systems (2013)
