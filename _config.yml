@@ -2,14 +2,4 @@ title: botStuff
 show_downloads: false
 google_analytics: G-DYEFQ93F2J
 theme: jekyll-theme-leap-day
-jekyll_admin:
-  hidden_links:
-    - posts
-    - pages
-    - staticfiles
-    - datafiles
-    - configuration
-  homepage: "pages"
-plugins:
-  - jekyll-feed
-permalink: /:title/
+
