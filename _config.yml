@@ -1,7 +1,7 @@
 title: botStuff - Public
 description: Front-facing botStuff.org 
 show_downloads: false
-google_analytics:
+google_analytics: G-DYEFQ93F2J
 theme: jekyll-theme-leap-day
 jekyll_admin:
   hidden_links:
@@ -13,3 +13,4 @@ jekyll_admin:
   homepage: "pages"
 plugins:
   - jekyll-feed
+permalink: /:title/
