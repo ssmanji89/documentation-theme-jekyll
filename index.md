@@ -19,6 +19,7 @@ I have a Bachelor’s degree in Management of Information Systems from the Bauer
 - [Various: ChatGPT UML MindMaps](https://github.com/ssmanji89/mindmaps)
 - [Python/Solutions: automobots](https://github.com/ssmanji89/automobots)
 - [Python/Solution: High-frequency Trading](https://github.com/ssmanji89/botstuff_hft_cryptos)
+- [Powershell/SNMP](https://github.com/ssmanji89/SNMP-Stuffs)
 - [UML/Analysis: Azure Monitoring Program](https://github.dev/ssmanji89/mindmaps/blob/1033aba396da4634630cc13021f4f439355ecb8a/Node-Azure_Monitoring-Detailed.md#L1)
 - [UML/Analysis: S.M.A.R.T. ](https://github.dev/ssmanji89/mindmaps/blob/1033aba396da4634630cc13021f4f439355ecb8a/MindMap%20for%20Defining%20SMART%20Goals.uml#L1-L28)
 - [UML/Analysis: Cost Savings Analysis with Automation](https://github.dev/ssmanji89/mindmaps/blob/1033aba396da4634630cc13021f4f439355ecb8a/Cost-Savings%20Opportunities%20for%20Customers.md#L1-L53)
