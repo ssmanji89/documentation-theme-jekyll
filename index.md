@@ -26,9 +26,7 @@ I have a Bachelor’s degree in Management of Information Systems from the Bauer
 - [Powershell/Process: Windows OS Standard Onboarding](https://gist.github.com/botstufforg/84470eb9d12d454b0a452af8c963ff3f)
 - [Powershell/SNMP: DynamicWalk](https://github.com/ssmanji89/SNMP-Stuffs)
 - [UML/Process: Endpoint Protection Policy Development](https://gist.github.com/ssmanji89/8e31a60a6efd14b92898ee77c9da5dc4)
-- [UML/Notes: What the Heck is EOS](https://github.com/ssmanji89/public/blob/main/posts/notes_What_the_Heck_is_EOS-A_Complete_Guide_for_Employees_in_Companies_Running_on_EOS.md)
-- [UML/Notes: Ray Dalio - Principles](https://raw.githubusercontent.com/ssmanji89/mindmaps/main/Books/Ray%20Dalio-Principles.uml?token=GHSAT0AAAAAAB6ODR2XELKOCUQ52QOZS326ZAOFWIA)
-- [UML/Notes: The Laws of Trading](https://raw.githubusercontent.com/ssmanji89/mindmaps/main/Books/The%20Laws%20of%20Trading%20(ISBN%20978-1-119-57421-7).uml?token=GHSAT0AAAAAAB6ODR2WGSSKV2EQQCUTZ244ZAOFXEA)
+
 
 ## Certifications
 - Microsoft Certified: Azure Administrator Associate (AZ-104)
@@ -53,6 +51,11 @@ I have a Bachelor’s degree in Management of Information Systems from the Bauer
 - University of Houston, Wolff Center for Entrepreneurship - Acknowledgement of Corporate Intrapreneurship (2011)
 - Dulles High School - High School Diploma in Liberal Arts and Sciences, General Studies and Humanities (2008)
 
+## Books & Reading
+- [UML/Notes: What the Heck is EOS](https://github.com/ssmanji89/public/blob/main/posts/notes_What_the_Heck_is_EOS-A_Complete_Guide_for_Employees_in_Companies_Running_on_EOS.md)
+- [UML/Notes: Ray Dalio - Principles](https://raw.githubusercontent.com/ssmanji89/mindmaps/main/Books/Ray%20Dalio-Principles.uml?token=GHSAT0AAAAAAB6ODR2XELKOCUQ52QOZS326ZAOFWIA)
+- [UML/Notes: The Laws of Trading](https://raw.githubusercontent.com/ssmanji89/mindmaps/main/Books/The%20Laws%20of%20Trading%20(ISBN%20978-1-119-57421-7).uml?token=GHSAT0AAAAAAB6ODR2WGSSKV2EQQCUTZ244ZAOFXEA)
+- 
 ## Technical
 - Systems Implementations
   - Design, install, configure, and deploy hardware and software systems
@@ -121,7 +124,7 @@ I have a Bachelor’s degree in Management of Information Systems from the Bauer
   - The ability to ensure that systems and processes are compliant with relevant laws, regulations, and industry standards. 
   - This involves staying up-to-date with changes in regulations and standards, as well as implementing and maintaining controls to ensure compliance. 
   - It also involves conducting audits and assessments to verify compliance and identify areas for improvement.
-  
+ 
 # External Reference Resources
 - [FXSTREET Economic Calendar](https://www.fxstreet.com/economic-calendar)
 - [Oilprice.com (Energy && World News)](https://oilprice.com/Latest-Energy-News/World-News/)
