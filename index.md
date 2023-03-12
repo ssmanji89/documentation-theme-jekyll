@@ -12,9 +12,6 @@ I have a Bachelor’s degree in Management of Information Systems from the Bauer
 
 ## Publications, Contributions & Portfolio
 - Impactful Automation - Automation that Hits the Mark
-- Scalable OTP Authentication
-- Logic for Programmatic Decision Making against Equity Assets
-- Sentiment Investor API 
 - [Archive: botStuff](https://github.com/username/project1)
 - [Various: ChatGPT UML MindMaps](https://github.com/ssmanji89/mindmaps)
 - [Python/Solutions: automobots](https://github.com/ssmanji89/automobots)
@@ -55,7 +52,7 @@ I have a Bachelor’s degree in Management of Information Systems from the Bauer
 - [UML/Notes: What the Heck is EOS](https://github.com/ssmanji89/public/blob/main/posts/notes_What_the_Heck_is_EOS-A_Complete_Guide_for_Employees_in_Companies_Running_on_EOS.md)
 - [UML/Notes: Ray Dalio - Principles](https://raw.githubusercontent.com/ssmanji89/mindmaps/main/Books/Ray%20Dalio-Principles.uml?token=GHSAT0AAAAAAB6ODR2XELKOCUQ52QOZS326ZAOFWIA)
 - [UML/Notes: The Laws of Trading](https://raw.githubusercontent.com/ssmanji89/mindmaps/main/Books/The%20Laws%20of%20Trading%20(ISBN%20978-1-119-57421-7).uml?token=GHSAT0AAAAAAB6ODR2WGSSKV2EQQCUTZ244ZAOFXEA)
-- 
+
 ## Technical
 - Systems Implementations
   - Design, install, configure, and deploy hardware and software systems
