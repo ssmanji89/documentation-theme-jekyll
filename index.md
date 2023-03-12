@@ -26,6 +26,8 @@ I have a Bachelor’s degree in Management of Information Systems from the Bauer
 - [PS/Process: Windows OS Standard Onboarding](https://gist.github.com/botstufforg/84470eb9d12d454b0a452af8c963ff3f)
 - [UML/Process: Endpoint Protection Policy Development](https://gist.github.com/ssmanji89/8e31a60a6efd14b92898ee77c9da5dc4)
 - [UML/Notes: What the Heck is EOS](https://github.com/ssmanji89/public/blob/main/posts/notes_What_the_Heck_is_EOS-A_Complete_Guide_for_Employees_in_Companies_Running_on_EOS.md)
+- [UML/Notes: Ray Dalio - Principles](https://raw.githubusercontent.com/ssmanji89/mindmaps/main/Books/Ray%20Dalio-Principles.uml?token=GHSAT0AAAAAAB6ODR2XELKOCUQ52QOZS326ZAOFWIA)
+- [UML/Notes: The Laws of Trading](https://raw.githubusercontent.com/ssmanji89/mindmaps/main/Books/The%20Laws%20of%20Trading%20(ISBN%20978-1-119-57421-7).uml?token=GHSAT0AAAAAAB6ODR2WGSSKV2EQQCUTZ244ZAOFXEA)
 
 ## Certifications
 - Microsoft Certified: Azure Administrator Associate (AZ-104)
