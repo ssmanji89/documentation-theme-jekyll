@@ -132,10 +132,10 @@ I have a Bachelor’s degree in Management of Information Systems from the Bauer
 - [Mike's Weather Homepage](https://spaghettimodels.com/)
 - [Ventusky](https://www.ventusky.com/)
 - [Didact AI](https://principiamundi.com/posts/didact-anatomy/)
-- [CIS Benchmark Archives](https://github.com/cismirror/old-benchmarks-archive
-- [Attach Surface Framework](https://github.com/vmware-labs/attack-surface-framework
-- [vulscan](https://github.com/scipag/vulscan
-- [prowler](https://github.com/prowler-cloud/prowler
-- [BloodHound](https://github.com/cyberark/BloodHound
-- [ADReportingTools](https://github.com/jdhitsolutions/ADReportingTools
-- [afog](https://github.com/zan8in/afrog
+- [CIS Benchmark Archives](https://github.com/cismirror/old-benchmarks-archive)
+- [Attach Surface Framework](https://github.com/vmware-labs/attack-surface-framework)
+- [vulscan](https://github.com/scipag/vulscan)
+- [prowler](https://github.com/prowler-cloud/prowler)
+- [BloodHound](https://github.com/cyberark/BloodHound)
+- [ADReportingTools](https://github.com/jdhitsolutions/ADReportingTools)
+- [afog](https://github.com/zan8in/afrog)
