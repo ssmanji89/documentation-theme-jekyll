@@ -122,7 +122,7 @@ I have a Bachelor’s degree in Management of Information Systems from the Bauer
   - This involves staying up-to-date with changes in regulations and standards, as well as implementing and maintaining controls to ensure compliance. 
   - It also involves conducting audits and assessments to verify compliance and identify areas for improvement.
  
-# External Reference Resources
+# External Resources worth Reposting
 - [FXSTREET Economic Calendar](https://www.fxstreet.com/economic-calendar)
 - [Oilprice.com (Energy && World News)](https://oilprice.com/Latest-Energy-News/World-News/)
 - [The Block (Blockchain and Market Data Analytics)](https://www.theblock.co/data/crypto-markets/futures)
@@ -132,3 +132,10 @@ I have a Bachelor’s degree in Management of Information Systems from the Bauer
 - [Mike's Weather Homepage](https://spaghettimodels.com/)
 - [Ventusky](https://www.ventusky.com/)
 - [Didact AI](https://principiamundi.com/posts/didact-anatomy/)
+- [CIS Benchmark Archives](https://github.com/cismirror/old-benchmarks-archive
+- [Attach Surface Framework](https://github.com/vmware-labs/attack-surface-framework
+- [vulscan](https://github.com/scipag/vulscan
+- [prowler](https://github.com/prowler-cloud/prowler
+- [BloodHound](https://github.com/cyberark/BloodHound
+- [ADReportingTools](https://github.com/jdhitsolutions/ADReportingTools
+- [afog](https://github.com/zan8in/afrog
