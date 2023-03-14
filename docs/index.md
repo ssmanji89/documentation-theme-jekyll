@@ -143,3 +143,4 @@ I have a Bachelor’s degree in Management of Information Systems from the Bauer
 - [nsacyber/Windows-Event-Log-Messages](https://github.com/nsacyber/Windows-Event-Log-Messages)
 - [StackFAQs](https://stackadvisors.atlassian.net/wiki/spaces/IR/pages/2367553540/Manage+Topics)
 - [devops-collective-inc/Modern-IT-Automation-with-PowerShellExtras/Edition-01/IaC/Scripts/Azure-SQL-Server.psm1](https://github.com/devops-collective-inc/Modern-IT-Automation-with-PowerShellExtras/blob/29e84cb8dfc4e378d170c371868dfda59fc568f2/Edition-01/IaC/Scripts/Azure-SQL-Server.psm1)
+- [Modern-IT-Automation-with-PowerShellExtras/Edition-01/IaC/Scripts/Azure-Virtual-Machine.psm1](https://github.com/devops-collective-inc/Modern-IT-Automation-with-PowerShellExtras/blob/29e84cb8dfc4e378d170c371868dfda59fc568f2/Edition-01/IaC/Scripts/Azure-Virtual-Machine.psm1)
