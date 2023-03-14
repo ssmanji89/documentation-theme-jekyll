@@ -23,6 +23,7 @@ I have a Bachelor’s degree in Management of Information Systems from the Bauer
 - [Powershell/Process: Windows OS Standard Onboarding](https://gist.github.com/botstufforg/84470eb9d12d454b0a452af8c963ff3f)
 - [Powershell/SNMP: DynamicWalk](https://github.com/ssmanji89/SNMP-Stuffs)
 - [UML/Process: Endpoint Protection Policy Development](https://gist.github.com/ssmanji89/8e31a60a6efd14b92898ee77c9da5dc4)
+- [Checklists to Success](https://github.com/ssmanji89/public/blob/136cbfcf43db47f2c8e6d7da191226451c3e2056/posts/Checklists%20to%20Success.md)
 
 
 ## Certifications
