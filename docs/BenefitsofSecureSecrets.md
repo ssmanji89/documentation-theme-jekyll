@@ -155,3 +155,28 @@ Summary
     - Improved overall security posture and risk management
     - Enhanced visibility and control over security incidents and threats
     - Reduced time and cost spent on security operations and incident response
+
+# PlantUML
+> @startuml
+
+title HashiCorp Vault Integration with ConnectWise Automate, LabTech Agent, and End-Users
+
+actor End-User
+actor Retriever
+Retriever -> Azure : Authenticates
+Azure -> "LabTech Agent" : Authenticates via Azure
+"LabTech Agent" --> "HashiCorp Vault" : Authenticates
+"HashiCorp Vault" --> "LabTech Agent" : Authorizes Access
+"LabTech Agent" --> "HashiCorp Vault" : Retrieves Sensitive Data
+"LabTech Agent" --> End-User : Provides Secrets
+
+database "HashiCorp Vault" {
+  folder "Secrets"
+}
+
+cloud Azure
+cloud "ConnectWise Automate" {
+  folder "IT Assets"
+}
+
+@enduml
