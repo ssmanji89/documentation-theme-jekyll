@@ -157,7 +157,7 @@ Summary
     - Reduced time and cost spent on security operations and incident response
 
 # PlantUML
-> @startuml
+`@startuml
 
 title HashiCorp Vault Integration with ConnectWise Automate, LabTech Agent, and End-Users
 
@@ -179,4 +179,4 @@ cloud "ConnectWise Automate" {
   folder "IT Assets"
 }
 
-@enduml
+@enduml`
