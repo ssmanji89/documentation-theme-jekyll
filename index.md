@@ -53,75 +53,87 @@ I have a Bachelor’s degree in Management of Information Systems from the Bauer
 - University of Houston, Wolff Center for Entrepreneurship - Acknowledgement of Corporate Intrapreneurship (2011)
 - Dulles High School - High School Diploma in Liberal Arts and Sciences, General Studies and Humanities (2008)
 
-## Technical
+# Core Competencies and Skills
+## Technical Skills
 - Systems Implementations
-  - Design, install, configure, and deploy hardware and software systems
 - Systems Integrations
-  - Integrate hardware and software systems with existing systems
 - Managed Services
-  - Provide support for managed services such as cloud, data center, and network services
 - Cloud Computing
-  - Design, deploy, and manage cloud-based infrastructure using services such as Microsoft Azure, Amazon Web Services, and Google Cloud Platform
 - Infrastructure Virtualization
-  - Design, deploy, and manage virtualized infrastructure using technologies such as VMware and Hyper-V
 - Network Administration
-  - Design, deploy, and manage network infrastructure using technologies such as Cisco, Juniper, and Aruba
 - Microsoft SQL Server
-  - Design, deploy, and manage Microsoft SQL Server databases in a production environment
 - Troubleshooting
-  - Identify, diagnose, and resolve technical issues in hardware, software, and network systems
 - Desktop Administration
-  - Manage desktops and workstations in a production environment
 - Virtualized Desktop Computing
-  - Design, deploy, and manage virtualized desktop infrastructure using technologies such as VMware Horizon and Citrix
 - Management
-  - Manage technical projects and teams
-  
-## Communications
-- Written and Verbal Communications
-  - Communicate effectively in writing and verbally with technical and non-technical stakeholders
-- Technical Writing
-  - Create technical documentation such as user manuals, technical specifications, and system documentation
-- Project Management
-  - Plan, execute, and manage technical projects
-- Training
-  - Design and deliver technical training for users and technical staff
-- SOP Development
-  - Develop and maintain standard operating procedures for technical systems and processes
-- Business Intelligence
-  - Analyze and interpret data to support business decisions
-- Negotiations Management
-  - Negotiate contracts and agreements with vendors and clients
-- Incident/Crisis Management
-  - Respond to technical incidents and crises in a timely and effective manner
 
-## Security
-- Privileged Access 
-  - The ability to manage privileged access to systems and data. 
-  - This includes identifying users who require elevated privileges and ensuring that access is granted on a need-to-know basis. 
-  - It also involves implementing and maintaining access controls to prevent unauthorized access to sensitive data or systems.
-- Directory Services
-  - The ability to design, deploy, and manage directory services such as Active Directory and LDAP. 
-  - This involves creating and managing user accounts, groups, and other objects within the directory, as well as defining access policies and security groups.
-- Incident Response Management
-  - The ability to respond to security incidents and breaches in a timely and effective manner. 
-  - This includes having a plan in place to detect and respond to security incidents, as well as identifying and containing the affected systems. 
-  - It also involves conducting root cause analysis and implementing corrective actions to prevent similar incidents from occurring in the future.
+### Regulatory Compliance
+- GDPR Compliance
+- HIPAA Compliance
+- PCI DSS Compliance
+- SOX Compliance
+
+### Security Audits
+- Vulnerability Scanning
 - Penetration Testing
-  - The ability to perform penetration testing and vulnerability assessments to identify potential security weaknesses in systems and networks. 
-  - This involves using tools and techniques to simulate attacks and identify vulnerabilities that could be exploited by attackers.
+- Security Risk Assessments
+- Compliance Audits
+
+### Risk Assessments
+- IT Risk Assessments
+- Business Continuity Risk Assessments
+- Disaster Recovery Risk Assessments
+- Third-Party Vendor Risk Assessments
+
+### Security Awareness Training
+- Employee Security Training
+- Security Policy Training
+- Social Engineering Awareness Training
+- Phishing Awareness Training
+
+### Cloud Management
+- Cloud Strategy Planning and Implementation
+- Cloud Migration Services
+- Cloud Optimization Services
+- Cloud Cost Management Services
+
+### Network Management
+- Network Design and Architecture
+- Network Security and Monitoring
+- Network Performance Optimization
+- Wireless Network Implementation and Management
+
+### Disaster Recovery
+- Disaster Recovery Planning and Implementation
+- Backup and Recovery Services
+- Business Continuity Planning and Testing
+- Failover Services
+
+### Virtualization
+- Server Virtualization
+- Desktop Virtualization
+- Application Virtualization
+- Virtualization Management
+
+## Communications Skills
+- Written and Verbal Communications
+- Technical Writing
+- Project Management
+- Training
+- SOP Development
+- Business Intelligence
+- Negotiations Management
+- Incident/Crisis Management
+
+## Security Skills
+- Privileged Access 
+- Directory Services
+- Incident Response Management
+- Penetration Testing
 - Security Auditing 
-  - The ability to conduct security audits and assessments to evaluate the effectiveness of security controls and identify areas for improvement. 
-  - This involves reviewing security policies and procedures, as well as analyzing security logs and other data sources to identify security incidents or anomalies.
 - Risk Management
-  - The ability to manage risks to the security of systems and data. 
-  - This involves identifying and assessing risks, as well as developing and implementing controls to mitigate those risks. 
-  - It also involves monitoring and measuring the effectiveness of those controls, and updating them as necessary to address new or emerging risks.
 - Compliance
-  - The ability to ensure that systems and processes are compliant with relevant laws, regulations, and industry standards. 
-  - This involves staying up-to-date with changes in regulations and standards, as well as implementing and maintaining controls to ensure compliance. 
-  - It also involves conducting audits and assessments to verify compliance and identify areas for improvement.
-  
+
 # External Reference Resources
 - [FXSTREET Economic Calendar](https://www.fxstreet.com/economic-calendar)
 - [Oilprice.com (Energy && World News)](https://oilprice.com/Latest-Energy-News/World-News/)

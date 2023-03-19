@@ -1,4 +1,14 @@
-# Disaster Recovery Policy Considerations
+---
+title: Considerations for a Disaster Recovery Policy 
+excerpt_separator: "<!--more-->"
+categories:
+  - Blog
+tags:
+  - Disaster Recovery
+  - ChatGPT
+---
+
+# Considerations for a Disaster Recovery Policy 
 
 ## Establish a Disaster Recovery (DR) Plan
 - Define the scope and objectives of the DR plan.

@@ -1,4 +1,14 @@
-# Implementing Best Practices for Organizational Success
+---
+title: Organizational Success Implementing Best Practices
+excerpt_separator: "<!--more-->"
+categories:
+  - Blog
+tags:
+  - Organizational Success
+  - ChatGPT
+---
+
+# Organizational Success Implementing Best Practices
 
 ## Introduction
 

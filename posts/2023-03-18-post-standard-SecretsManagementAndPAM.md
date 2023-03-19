@@ -1,3 +1,13 @@
+---
+title: Secure Secrets Storage and Management
+excerpt_separator: "<!--more-->"
+categories:
+  - Blog
+tags:
+  - PAM
+  - ChatGPT
+---
+
 # Secure Secrets Storage and Management
 
 Summary 

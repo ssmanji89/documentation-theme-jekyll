@@ -1,6 +1,12 @@
-layout: index
-title: "Welcome to [redacted]"
-permalink: /posts/threats-pam-insurance
+---
+title: "Mitigating Cyber Threats, PAM Solutions, and Cyber Insurance: A Comprehensive Approach"
+excerpt_separator: "<!--more-->"
+categories:
+  - Blog
+tags:
+  - PAM
+  - 
+---
 
 # Mitigating Cyber Threats, PAM Solutions, and Cyber Insurance: A Comprehensive Approach
 
